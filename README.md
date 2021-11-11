@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @PepitoLoco
+- 👀 I’m interested in Software Engineering
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on a environmental smart proyect
