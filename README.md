@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @PepitoLoco
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Juan Pedro Alvarez
+- 👀 I’m studying Software Engineering
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on a environmental smart proyect
+- I really like solving problems and learning new languages
